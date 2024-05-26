@@ -1,6 +1,7 @@
 # clean_architecture_feature_first
 
-A new Flutter project.
+by code with anrea
+https://codewithandrea.com/articles/flutter-project-structure/
 
 ## Getting Started
 
